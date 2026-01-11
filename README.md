@@ -3,16 +3,15 @@
 
 # `Diagnostic Analysis Application`
 
-<!-- badges: start -->
+This is a sample application using the golem_framework for simple diagnostic application. 
 
-<!-- badges: end -->
 
-## Installation
+## Installation/Use
 
-You can install the development version of `{interviewcaseapp}` like so:
+To use this application, simply download the code with git clone and run the application below.
 
-``` r
-# FILL THIS IN! HOW CAN PEOPLE INSTALL YOUR DEV PACKAGE?
+```bash
+git clone https://github.com/Sifael/Diagnostic-Test-App.git
 ```
 
 ## Run
